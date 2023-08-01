@@ -3,7 +3,8 @@
 This project is a sample of the Adapter pattern architecture and its implementation. This was implemented based on a microservice architecture.
 
 ## Architecture ##
-![adapter-pattern-architecture drawio](https://github.com/martinstm/adapter-pattern-architecture/assets/33236928/df990c3e-3c83-4fa8-bf53-20f9b97c38ab)
+![adapter-pattern-architecture drawio](https://github.com/martinstm/adapter-pattern-architecture/assets/33236928/e76f1cc4-7d63-4830-98f1-e57ab3e05336)
+
 
 ## Medium article based on this repository
 I made an article about Adapter Pattern and its advantages and disadvantages on my page on Medium. 
